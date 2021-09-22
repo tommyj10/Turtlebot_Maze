@@ -1,0 +1,5 @@
+<launch>
+  <node name="wallfollower" pkg="wallfollower" type="wallfollower" output="screen" clear_params="true" ns="wallfollower">
+  </node>
+</launch>
+
